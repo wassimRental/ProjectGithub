@@ -10,4 +10,6 @@ public class RandomClass
     Console.log("this is the development of developer 1");
     Console.log("and this is the development of developer 2");
         Console.info("this line was been writen on the merge");
+    Console.log("merge into test from dev");
+
 }
