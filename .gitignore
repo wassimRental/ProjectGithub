@@ -6,6 +6,9 @@
 #Project files
 FileBack4.cs
 
+#folders
+.vs/
+
 # User-specific files
 *.rsuser
 *.suo
@@ -364,3 +367,4 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/.vs/slnx.sqlite
